@@ -1,0 +1,16 @@
+{
+  "name": "hapi-i18n-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "hapi": "^16.1.0",
+    "hapi-i18n": "^1.0.3",
+    "pug": "^2.0.0-beta11",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
